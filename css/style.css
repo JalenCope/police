@@ -1,13 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans);
 @charset "UTF-8";
 
-div.relative {
-  position: relative;
-  left: 35px;
-  top: 0px;
-  border: 3px solid #73AD21;
-}
-
 .line{
 background-color:#CD4940;
 width:15%;
